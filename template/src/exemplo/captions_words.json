@@ -1,0 +1,398 @@
+{
+ "style": "words",
+ "chunks": [
+  {
+   "start": 0,
+   "end": 9,
+   "size": 150,
+   "lines": [
+    [
+     {
+      "t": "ESSE",
+      "s": 0,
+      "key": false
+     },
+     {
+      "t": "É",
+      "s": 3,
+      "key": false
+     },
+     {
+      "t": "UM",
+      "s": 6,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 9,
+   "end": 22,
+   "size": 150,
+   "lines": [
+    [
+     {
+      "t": "VÍDEO",
+      "s": 9,
+      "key": false
+     },
+     {
+      "t": "DE",
+      "s": 17,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 22,
+   "end": 39,
+   "size": 132,
+   "lines": [
+    [
+     {
+      "t": "EXEMPLO",
+      "s": 22,
+      "key": false
+     },
+     {
+      "t": "DO",
+      "s": 31,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 39,
+   "end": 49,
+   "size": 150,
+   "lines": [
+    [
+     {
+      "t": "KIT",
+      "s": 39,
+      "key": false
+     },
+     {
+      "t": "DE",
+      "s": 44,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 49,
+   "end": 66,
+   "size": 150,
+   "lines": [
+    [
+     {
+      "t": "EDIÇÃO",
+      "s": 49,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 66,
+   "end": 80,
+   "size": 132,
+   "lines": [
+    [
+     {
+      "t": "CADA",
+      "s": 66,
+      "key": false
+     },
+     {
+      "t": "CORTE",
+      "s": 72,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 80,
+   "end": 85,
+   "size": 150,
+   "lines": [
+    [
+     {
+      "t": "CAI",
+      "s": 80,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 85,
+   "end": 104,
+   "size": 132,
+   "lines": [
+    [
+     {
+      "t": "EXATAMENTE",
+      "s": 85,
+      "key": true
+     },
+     {
+      "t": "NO",
+      "s": 100,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 104,
+   "end": 120,
+   "size": 132,
+   "lines": [
+    [
+     {
+      "t": "COMEÇO",
+      "s": 104,
+      "key": false
+     },
+     {
+      "t": "E",
+      "s": 113,
+      "key": false
+     },
+     {
+      "t": "NO",
+      "s": 116,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 120,
+   "end": 150,
+   "size": 132,
+   "lines": [
+    [
+     {
+      "t": "FIM",
+      "s": 120,
+      "key": false
+     },
+     {
+      "t": "DA",
+      "s": 125,
+      "key": false
+     },
+     {
+      "t": "FALA",
+      "s": 129,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 153,
+   "end": 171,
+   "size": 132,
+   "lines": [
+    [
+     {
+      "t": "AS",
+      "s": 153,
+      "key": false
+     },
+     {
+      "t": "LEGENDAS",
+      "s": 153,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 171,
+   "end": 187,
+   "size": 150,
+   "lines": [
+    [
+     {
+      "t": "APARECEM",
+      "s": 171,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 187,
+   "end": 205,
+   "size": 132,
+   "lines": [
+    [
+     {
+      "t": "PALAVRA",
+      "s": 187,
+      "key": true
+     },
+     {
+      "t": "POR",
+      "s": 194,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 205,
+   "end": 224,
+   "size": 150,
+   "lines": [
+    [
+     {
+      "t": "PALAVRA",
+      "s": 205,
+      "key": true
+     }
+    ]
+   ]
+  },
+  {
+   "start": 225,
+   "end": 231,
+   "size": 150,
+   "lines": [
+    [
+     {
+      "t": "E",
+      "s": 225,
+      "key": false
+     },
+     {
+      "t": "OS",
+      "s": 227,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 231,
+   "end": 244,
+   "size": 150,
+   "lines": [
+    [
+     {
+      "t": "DESTAQUES",
+      "s": 231,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 244,
+   "end": 258,
+   "size": 132,
+   "lines": [
+    [
+     {
+      "t": "ENTRAM",
+      "s": 244,
+      "key": false
+     },
+     {
+      "t": "COM",
+      "s": 253,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 258,
+   "end": 283,
+   "size": 150,
+   "lines": [
+    [
+     {
+      "t": "MOVIMENTO",
+      "s": 258,
+      "key": true
+     }
+    ]
+   ]
+  },
+  {
+   "start": 283,
+   "end": 289,
+   "size": 150,
+   "lines": [
+    [
+     {
+      "t": "QUANTOS",
+      "s": 283,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 289,
+   "end": 306,
+   "size": 132,
+   "lines": [
+    [
+     {
+      "t": "CORTES",
+      "s": 289,
+      "key": true
+     },
+     {
+      "t": "VOCÊ",
+      "s": 301,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 306,
+   "end": 324,
+   "size": 150,
+   "lines": [
+    [
+     {
+      "t": "CONTOU?",
+      "s": 306,
+      "key": false
+     }
+    ]
+   ]
+  },
+  {
+   "start": 324,
+   "end": 352,
+   "size": 132,
+   "lines": [
+    [
+     {
+      "t": "COMENTA",
+      "s": 324,
+      "key": false
+     },
+     {
+      "t": "AÍ!",
+      "s": 336,
+      "key": false
+     }
+    ]
+   ]
+  }
+ ]
+}

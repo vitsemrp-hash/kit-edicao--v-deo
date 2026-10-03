@@ -1,0 +1,32 @@
+{
+ "source": "gravacao_exemplo.mp4",
+ "ref_db": -19.5,
+ "thr_db": -54.5,
+ "clips": [
+  {
+   "src_in": 0.775,
+   "src_out": 2.97,
+   "text": "Esse é um vídeo de exemplo do kit de edição."
+  },
+  {
+   "src_in": 3.825,
+   "src_out": 6.73,
+   "text": "Cada corte cai exatamente no começo e no fim da fala."
+  },
+  {
+   "src_in": 7.595,
+   "src_out": 9.965,
+   "text": "As legendas aparecem palavra por palavra,"
+  },
+  {
+   "src_in": 10.825,
+   "src_out": 12.775,
+   "text": "e os destaques entram com movimento."
+  },
+  {
+   "src_in": 13.63,
+   "src_out": 15.735,
+   "text": "Quantos cortes você contou? Comenta aí!"
+  }
+ ]
+}

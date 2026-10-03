@@ -1,0 +1,14 @@
+# Pipeline de áudio do edit-kit (Python 3.10+)
+# Instale num ambiente virtual:  python3 -m venv .venv && source .venv/bin/activate  (Windows: .venv\Scripts\activate)
+#                                 pip install -r scripts/requirements.txt
+numpy>=1.26
+faster-whisper>=1.1        # transcrição com timestamps por palavra (baixa o modelo large-v3 na 1ª vez, ~3 GB)
+
+# --- opcionais ---
+# Narração TTS (Shorts narrados). Português precisa do espeak-ng instalado no sistema
+# (macOS: brew install espeak-ng | Ubuntu: sudo apt install espeak-ng | Windows: instalador .msi do espeak-ng no GitHub).
+kokoro>=0.9
+soundfile>=0.12
+# Redução de ruído de alta qualidade (voice_chain.py --denoise dfn). Pesado (torch); sem ele use --denoise afftdn (só ffmpeg).
+# deepfilternet>=0.5
+# torch

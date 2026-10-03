@@ -1,0 +1,21 @@
+# dependências e builds
+node_modules/
+template/out/
+out/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# projetos do usuário: mídia nunca vai para o git (só os JSONs/roteiros)
+projetos/*/entrada/
+projetos/*/saida/
+projetos/*/trabalho/*.wav
+projetos/*/trabalho/*.mp4
+projetos/*/trabalho/*.mov
+*.mov
+*.mkv
+# vídeos em geral, exceto a mídia de exemplo do template
+*.mp4
+!template/public/exemplo/*.mp4

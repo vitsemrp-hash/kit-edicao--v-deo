@@ -1,0 +1,23 @@
+[
+ {"frame": 1, "file": "sfx/sintetizados/boom.wav", "label": "gancho – boom no frame 0", "peak_db": -8, "align": "peak", "pre": 0.0, "post": 1.5, "fade_out": 0.5},
+ {"frame": 2, "file": "sfx/sintetizados/stamp.wav", "label": "gancho – slam do card", "peak_db": -14, "align": "start"},
+ {"frame": 22, "file": "sfx/cc0/bsb_1801_whoosh_8.mp3", "label": "punch em 'exemplo' – whoosh", "peak_db": -18, "align": "peak", "pre": 0.25, "post": 0.3},
+ {"frame": 39, "file": "sfx/sintetizados/zip.wav", "label": "barra 'KIT DE EDIÇÃO' cresce – zip", "peak_db": -20, "align": "start"},
+ {"frame": 66, "file": "sfx/cc0/bsb_1797_whoosh_5.mp3", "label": "corte → split com card", "peak_db": -18, "align": "peak", "pre": 0.25, "post": 0.3},
+ {"frame": 72, "file": "sfx/sintetizados/pop1.wav", "label": "pílula CORTE NA FALA – pop", "peak_db": -19, "align": "start"},
+ {"frame": 85, "file": "sfx/cc0/wm_Computer_mouse_single_click.ogg", "label": "punch em 'exatamente' – clique", "peak_db": -18, "align": "peak", "pre": 0.01, "post": 0.2},
+ {"frame": 153, "file": "sfx/cc0/bsb_1795_whoosh_3.mp3", "label": "corte → tela cheia", "peak_db": -18, "align": "peak", "pre": 0.25, "post": 0.3},
+ {"frame": 155, "file": "sfx/sintetizados/roll13.wav", "label": "contador de cortes – ticks", "peak_db": -21, "align": "start"},
+ {"frame": 225, "file": "sfx/sintetizados/whoosh4.wav", "label": "cena motion (íris) – whoosh", "peak_db": -18, "align": "peak", "pre": 0.3, "post": 0.3},
+ {"frame": 231, "file": "sfx/sintetizados/pop2.wav", "label": "check 1", "peak_db": -19, "align": "start"},
+ {"frame": 244, "file": "sfx/sintetizados/pop4.wav", "label": "check 2", "peak_db": -19, "align": "start"},
+ {"frame": 258, "file": "sfx/cc0/wm_Timpani_64-c-p5.wav", "label": "check 3 'movimento' – tímpano", "peak_db": -16, "align": "peak", "pre": 0.01, "post": 1.0, "fade_out": 0.4},
+ {"frame": 283, "file": "sfx/sintetizados/whoosh5.wav", "label": "card final sobe", "peak_db": -19, "align": "peak", "pre": 0.3, "post": 0.3},
+ {"frame": 285, "file": "sfx/sintetizados/notif.wav", "label": "card final – notificação", "peak_db": -18, "align": "start"},
+ {"frame": 324, "file": "sfx/sintetizados/pop1.wav", "label": "coração – pop", "peak_db": -20, "align": "start"},
+ {"frame": 340, "file": "sfx/sintetizados/stamp2.wav", "label": "botão SEGUIR aparece", "peak_db": -20, "align": "start"},
+ {"frame": 362, "file": "sfx/sintetizados/whoosh1.wav", "label": "pata entra", "peak_db": -22, "align": "peak", "pre": 0.3, "post": 0.2},
+ {"frame": 372, "file": "sfx/cc0/bsb_1742_apple_magic_mouse_single_click.mp3", "label": "pata toca SEGUIR – clique", "peak_db": -16, "align": "peak", "pre": 0.01, "post": 0.15},
+ {"frame": 374, "file": "sfx/sintetizados/chime.wav", "label": "SEGUINDO ✓ – sino", "peak_db": -20, "align": "start"},
+ {"frame": 392, "file": "sfx/sintetizados/riser.wav", "label": "riser para o loop (termina no frame 0)", "peak_db": -14, "align": "start"}
+]
